@@ -1,1 +1,5 @@
-# taskmanager
+# TaskManager
+
+## Funcionalidades
+
+- Conclusão de tarefas
